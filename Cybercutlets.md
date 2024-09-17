@@ -158,7 +158,6 @@
 
 ![image](https://github.com/user-attachments/assets/8463aab1-f798-46d7-bb42-4383ee317791)
 
-
 ## Страница фильма\сериала\персоны
 
 - Если пользователь не авторизован, то он не может добавить добавить контент в избранное, сам раздел "Избранное" у него отсутствует:   
@@ -175,8 +174,6 @@
 ![image](https://github.com/user-attachments/assets/eed4bfb4-f404-4570-8b86-b1d12b0d85fc)
 
 - Находясь в избранном, можно удалить оттуда фильм. При этом со страницы самого фильма отметка "В избранном" пропадает, как и должно быть.
-
- ![image](https://github.com/user-attachments/assets/51b59083-1fea-455a-a8bb-7f754c914353)
  
 ![image](https://github.com/user-attachments/assets/4f17a93f-e822-4f0a-99bc-5ecb8ec6f520)
 
