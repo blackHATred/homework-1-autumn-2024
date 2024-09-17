@@ -86,6 +86,12 @@
   <img width="551" alt="image" src="https://github.com/user-attachments/assets/52c33529-226f-474c-a4e1-d6683510a413">
 - При проблемах на стороне клиента \ сервера при публикации \ редактировании рецензии появляется характерное сообщение об ошибке  
   <img width="560" alt="image" src="https://github.com/user-attachments/assets/41712337-45bd-4c01-93d5-8bd00b58a6e3">
+- Если рецензий нет, то отображается рейтинг imdb  
+  <img width="244" alt="image" src="https://github.com/user-attachments/assets/f1e2c307-ed59-48e2-b837-1b24e5247b7b">
+- Если оставить или отредактировать рецензию, то рейтинг автоматически пересчитывается и становится среднеарифметическим от всех рецензий  
+  <img width="235" alt="image" src="https://github.com/user-attachments/assets/1aecb0c3-a7aa-41e8-9179-aecc0d9d4f7d">  
+  <img width="349" alt="image" src="https://github.com/user-attachments/assets/65dee094-2a8e-48d7-9721-b8d4e0f25939">
+- Если удалить рецензию, то рейтинг автоматически пересчитывается и становится среднеарифметическим от всех рецензий. Если после удаления рецензий нет и среднеарифметическое взять невозможно, то берётся рейтинг imdb 
 
 
 ## Поиск
